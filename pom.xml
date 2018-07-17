@@ -102,30 +102,6 @@
          <optional>true</optional>
       </dependency>
       <dependency>
-         <groupId>org.apache.ranger</groupId>
-         <artifactId>ranger</artifactId>
-         <version>0.4.0.3.0.1.0-1</version>
-         <optional>true</optional>
-      </dependency>
-      <dependency>
-         <groupId>commons-beanutils</groupId>
-         <artifactId>commons-beanutils</artifactId>
-         <version>20030211.134440</version>
-         <optional>true</optional>
-      </dependency>
-      <dependency>
-         <groupId>org.apache.storm</groupId>
-         <artifactId>storm-core</artifactId>
-         <version>0.9.2-incubating</version>
-         <optional>true</optional>
-      </dependency>
-      <dependency>
-         <groupId>org.apache.storm</groupId>
-         <artifactId>storm</artifactId>
-         <version>0.9.2-incubating</version>
-         <optional>true</optional>
-      </dependency>
-      <dependency>
          <groupId>org.apache.tomcat</groupId>
          <artifactId>tomcat</artifactId>
          <version>9.0.1</version>
@@ -240,13 +216,6 @@
          <groupId>org.apache.solr</groupId>
          <artifactId>solr-core</artifactId>
          <version>6.6.0</version>
-         <type>pom</type>
-         <optional>true</optional>
-      </dependency>
-      <dependency>
-         <groupId>org.apache.httpcomponents</groupId>
-         <artifactId>httpcomponents-client</artifactId>
-         <version>4.3-beta2</version>
          <type>pom</type>
          <optional>true</optional>
       </dependency>
