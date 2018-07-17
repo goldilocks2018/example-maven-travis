@@ -102,12 +102,6 @@
          <optional>true</optional>
       </dependency>
       <dependency>
-         <groupId>org.apache.tomcat</groupId>
-         <artifactId>tomcat</artifactId>
-         <version>9.0.1</version>
-         <optional>true</optional>
-      </dependency>
-      <dependency>
          <groupId>org.apache.cxf</groupId>
          <artifactId>cxf-parent</artifactId>
          <version>3.1.9</version>
