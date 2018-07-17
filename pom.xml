@@ -134,6 +134,7 @@
          <artifactId>nifi-commons</artifactId>
          <version>1.4.0</version>
          <optional>true</optional>
+         <type>pom</type>
       </dependency>
    </dependencies>
 </project>
