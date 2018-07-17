@@ -153,49 +153,42 @@
          <groupId>org.apache.activemq</groupId>
          <artifactId>apache-activemq</artifactId>
          <version>5.9.1</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.activemq</groupId>
          <artifactId>activemq-unit-tests</artifactId>
          <version>5.0.0</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.activemq</groupId>
          <artifactId>activemq-jaas</artifactId>
          <version>5.0.0</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.activemq</groupId>
          <artifactId>activemq-broker</artifactId>
          <version>5.0.0</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.atlas</groupId>
          <artifactId>atlas-webapp</artifactId>
          <version>0.6.0</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.atlas</groupId>
          <artifactId>atlas-dashboardv2</artifactId>
          <version>0.6.0</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.atlas</groupId>
          <artifactId>apache-atlas</artifactId>
          <version>0.6.0</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
@@ -244,35 +237,30 @@
          <groupId>org.apache.struts</groupId>
          <artifactId>struts-core</artifactId>
          <version>2.3.7</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.camel</groupId>
          <artifactId>camel-blueprint</artifactId>
          <version>2.14.4</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.camel</groupId>
          <artifactId>camel</artifactId>
          <version>2.14.4</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.camel</groupId>
          <artifactId>camel-test</artifactId>
          <version>2.14.4</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.camel</groupId>
          <artifactId>apache-camel</artifactId>
          <version>2.14.4</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
@@ -286,21 +274,18 @@
          <groupId>org.apache.camel</groupId>
          <artifactId>components</artifactId>
          <version>2.14.4</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.camel</groupId>
          <artifactId>camel-component</artifactId>
          <version>2.14.4</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.camel</groupId>
          <artifactId>camel-snakeyaml</artifactId>
          <version>2.14.4</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
@@ -370,14 +355,12 @@
          <groupId>org.apache.tomcat</groupId>
          <artifactId>catalina</artifactId>
          <version>6.0</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.tomcat</groupId>
          <artifactId>tomcat-catalina</artifactId>
          <version>7.0</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
@@ -524,42 +507,36 @@
          <groupId>org.apache.hadoop</groupId>
          <artifactId>hadoop-mapreduce</artifactId>
          <version>2.6.1</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.hadoop</groupId>
          <artifactId>hadoop-mapreduce-client-core</artifactId>
          <version>2.6.1</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.hadoop</groupId>
          <artifactId>hadoop-client</artifactId>
          <version>2.6.1</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.hadoop</groupId>
          <artifactId>hadoop-project</artifactId>
          <version>2.6.1</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.hadoop</groupId>
          <artifactId>hadoop-mapreduce-client</artifactId>
          <version>2.6.1</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.hadoop</groupId>
          <artifactId>hadoop-main</artifactId>
          <version>2.6.1</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
@@ -580,7 +557,6 @@
          <groupId>org.apache.struts</groupId>
          <artifactId>struts2-core</artifactId>
          <version>2.0.0</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
@@ -601,14 +577,12 @@
          <groupId>org.apache.hadoop</groupId>
          <artifactId>hadoop-test</artifactId>
          <version>2.6.0</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.apache.hadoop</groupId>
          <artifactId>hadoop-mapred</artifactId>
          <version>2.6.0</version>
-         <type>pom</type>
          <optional>true</optional>
       </dependency>
       <dependency>
